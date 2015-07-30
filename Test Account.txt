@@ -1,0 +1,7 @@
+Admin Account: 
+Username: admin
+Password: 123456
+
+User Account:
+Username: phu
+password: phu
