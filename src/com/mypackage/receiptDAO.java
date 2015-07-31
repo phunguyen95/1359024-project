@@ -52,7 +52,7 @@ public class receiptDAO {
     public int countallreceipt(){
         int j = 0;
         int perPagesArticles = 9;
-        String database = "u101063145_data";
+        String database = "myproduct";
         String connectionURL = "jdbc:mysql://localhost:3306/" + database;
         String dbUser = "root";
         String dbPassword = "";
